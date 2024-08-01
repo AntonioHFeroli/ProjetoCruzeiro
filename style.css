@@ -48,13 +48,6 @@ section .container {
     justify-content: space-between;
 }
 
-.brands-list img {
-    height: 24px;
-}
-.brands-list li {
-    display: inline;
-    margin-right: 16px;
-}
 
 section .container {
     align-items: flex-start;
@@ -73,8 +66,14 @@ section p {
     margin-bottom: 8px;
 }
 
-.imagemloja {
+.imagemgrande {
     margin-right: 32px;
+    width: 500px;
+}
+
+#titles .imagemgrande{
+    margin-right: 32px;
+    width: 1240px;
 }
 
 .social-links img {
